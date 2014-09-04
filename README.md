@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-My first repo
+My first repo.
+Just testing making an edit.
+
